@@ -1,25 +1,34 @@
-👋 Hello, I'm Nodirbek Abloqulov!
+<h2>🛠 Technologies</h2>
 
----
-
-## About Me
-
-Backend Developer with hands-on experience in **Python**, **Django**, **Django Rest Framework**, **FastAPI**, **PostgreSQL**, **Docker**, and **Telegram Bots**.  
-I focus on building clean, scalable backend systems and REST APIs.  
-Currently working on real-world backend projects and continuously improving my system design and database skills.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nodirbek3628&show_icons=true&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nodirbek3628&theme=tokyonight&no-frame=true)
-
----
-
-Thanks for stopping by! 🙂
+<ul>
+  <li>
+    <a href="https://docs.python.org/3/" target="_blank">
+      Python
+    </a>
+  </li>
+  <li>
+    <a href="https://docs.djangoproject.com/en/stable/" target="_blank">
+      Django
+    </a>
+  </li>
+  <li>
+    <a href="https://www.django-rest-framework.org/" target="_blank">
+      Django Rest Framework
+    </a>
+  </li>
+  <li>
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+      FastAPI
+    </a>
+  </li>
+  <li>
+    <a href="https://www.postgresql.org/docs/" target="_blank">
+      PostgreSQL
+    </a>
+  </li>
+  <li>
+    <a href="https://docs.docker.com/" target="_blank">
+      Docker
+    </a>
+  </li>
+</ul>

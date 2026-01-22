@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Diyorbek%20Jumanov&fontSize=40&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nodirbek%20Abloqulov&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
 # 👋 Hi, I'm Nodirbek Abloqulov
 
----
-
-## 👨‍💻 About Me
 
 I am a backend-focused developer with hands-on experience building RESTful APIs, backend services, and automation tools using Python and its ecosystem.  
 I focus on writing clean, maintainable code and designing reliable backend logic.

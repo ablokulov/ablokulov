@@ -22,17 +22,23 @@ I focus on writing clean, maintainable code and designing reliable backend logic
 ---
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" />
 </p>
+
+| ⭐ Metric | 📈 Value |
+|--------|---------|
+| ⭐ Total Stars | 7 |
+| 🔄 Commits (last year) | 1.2k |
+| 🔀 Pull Requests | 69 |
+| 🐞 Issues | 76 |
+| 🤝 Contributed to | 200+ |
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical&hide_border=true" />
+  <img src="https://progress-bar.dev/78/?title=Rating&color=ff2d95" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 

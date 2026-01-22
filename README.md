@@ -14,12 +14,38 @@ Alongside development, I have experience teaching programming fundamentals, whic
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python  
-- **Frameworks:** Django, Django REST Framework, Flask  
-- **Automation:** Selenium, python-telegram-bot  
-- **Databases:** PostgreSQL, SQLite  
-- **Tools:** Git, Linux, Nginx  
-- **Concepts:** REST APIs, JWT Authentication, Role-Based Access Control
+- **Programming Language:**  
+  [Python](https://docs.python.org/3/)
+
+- **Backend Frameworks:**  
+  [Django](https://docs.djangoproject.com/en/stable/),  
+  [Django REST Framework](https://www.django-rest-framework.org/),  
+  [FastAPI](https://fastapi.tiangolo.com/)
+
+- **ORM & Database Tools:**  
+  [SQLAlchemy](https://docs.sqlalchemy.org/)
+
+- **Databases:**  
+  [PostgreSQL](https://www.postgresql.org/docs/)
+
+- **Automation & Bots:**  
+  [python-telegram-bot](https://docs.python-telegram-bot.org/)
+
+- **Version Control:**  
+  [Git](https://git-scm.com/doc),  
+  [GitHub](https://docs.github.com/)
+
+- **Operating Systems:**  
+  [Linux (Ubuntu)](https://ubuntu.com/server/docs)
+
+- **DevOps & Deployment:**  
+  [Docker](https://docs.docker.com/),  
+  [AWS EC2](https://docs.aws.amazon.com/ec2/)
+
+- **Backend Concepts:**  
+  [REST APIs](https://restfulapi.net/),  
+  [JWT Authentication](https://jwt.io/introduction),  
+  Role-Based Access Control (RBAC)
 
 ---
 
@@ -46,7 +72,7 @@ Alongside development, I have experience teaching programming fundamentals, whic
 ## 📫 Contact
 
 - GitHub: https://github.com/ablokulov  
-- Telegram: @nodirbek_abloqulov
+- Telegram: https://t.me/nodirbek_abloqulov
 - Email: ablokulovdev23@gmail.com 
 
 ---

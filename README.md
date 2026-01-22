@@ -23,53 +23,6 @@ Alongside development, I have experience teaching programming fundamentals, whic
 
 ---
 
-## 🧠 Featured Projects
-
-### 🎓 Education Management System
-**Tech Stack:** Django · Django REST Framework · PostgreSQL · JWT · Nginx  
-
-A backend system developed to manage core educational entities such as students, groups, and user roles.  
-The project focuses on clean API design, correct data modeling, and secure authentication.
-
-**Key Responsibilities**
-- Designed relational database models
-- Implemented JWT authentication and authorization
-- Built RESTful APIs using DRF
-- Applied role-based access logic
-- Configured Nginx for deployment
-
-🔗 Repository: https://github.com/username/education-admin-panel
-
----
-
-### 🤖 Telegram Automation Bot
-**Tech Stack:** Python · python-telegram-bot · SQLite  
-
-A Telegram bot created to automate user interactions and basic administrative tasks.
-
-**Key Responsibilities**
-- Implemented command-based bot logic
-- Managed user state and data persistence
-- Built admin-level commands and notifications
-- Structured bot code for maintainability
-
-🔗 Repository: https://github.com/username/telegram-bot
-
----
-
-### 🌐 Web Scraping & Automation
-**Tech Stack:** Python · Selenium  
-
-Automation scripts developed to collect data from dynamic websites requiring authentication.
-
-**Key Responsibilities**
-- Automated login and session handling
-- Processed paginated and dynamic content
-- Extracted and structured data
-- Added basic error handling
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -92,9 +45,9 @@ Automation scripts developed to collect data from dynamic websites requiring aut
 
 ## 📫 Contact
 
-- GitHub: https://github.com/username  
-- Telegram: @your_username  
-- Email: your@email.com  
+- GitHub: https://github.com/ablokulov  
+- Telegram: @nodirbek_abloqulov
+- Email: ablokulovdev23@gmail.com 
 
 ---
 

@@ -26,8 +26,7 @@ I focus on writing clean, maintainable code and designing reliable backend logic
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ablokulov&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="420" />
-  <br/>
-  <img src="https://progress-bar.dev/78/?title=Overall%20Activity&color=ff2d95" width="300" />
+
 </p>
 
 

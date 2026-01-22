@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Diyorbek%20Jumanov&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
-# 👋 Hi, I'm Diyorbek Jumanov
+# 👋 Hi, I'm Nodirbek Abloqulov
 
 ---
 

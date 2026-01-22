@@ -36,9 +36,8 @@ I focus on writing clean, maintainable code and designing reliable backend logic
 
 
 ## 🏆 GitHub Trophies
-
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ablokulov&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ablokulov&theme=onedark&row=1&column=3" />
 </p>
 
 ---

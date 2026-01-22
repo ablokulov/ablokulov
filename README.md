@@ -8,46 +8,19 @@
 I am a backend-focused developer with hands-on experience building RESTful APIs, backend services, and automation tools using Python and its ecosystem.  
 I focus on writing clean, maintainable code and designing reliable backend logic.
 
-Alongside development, I have experience teaching programming fundamentals, which has strengthened my ability to explain concepts clearly and follow structured development practices.
-
----
 
 ## 🛠 Tech Stack
 
-- **Programming Language:**  
-  [Python](https://docs.python.org/3/)
-
-- **Backend Frameworks:**  
-  [Django](https://docs.djangoproject.com/en/stable/),  
-  [Django REST Framework](https://www.django-rest-framework.org/),  
-  [FastAPI](https://fastapi.tiangolo.com/)
-
-- **ORM & Database Tools:**  
-  [SQLAlchemy](https://docs.sqlalchemy.org/)
-
-- **Databases:**  
-  [PostgreSQL](https://www.postgresql.org/docs/)
-
-- **Automation & Bots:**  
-  [python-telegram-bot](https://docs.python-telegram-bot.org/)
-
-- **Version Control:**  
-  [Git](https://git-scm.com/doc),  
-  [GitHub](https://docs.github.com/)
-
-- **Operating Systems:**  
-  [Linux (Ubuntu)](https://ubuntu.com/server/docs)
-
-- **DevOps & Deployment:**  
-  [Docker](https://docs.docker.com/),  
-  [AWS EC2](https://docs.aws.amazon.com/ec2/)
-
-- **Backend Concepts:**  
-  [REST APIs](https://restfulapi.net/),  
-  [JWT Authentication](https://jwt.io/introduction),  
-  Role-Based Access Control (RBAC)
+- **Language:** [Python](https://docs.python.org/3/)
+- **Frameworks:** [Django](https://docs.djangoproject.com/en/stable/), [DRF](https://www.django-rest-framework.org/), [FastAPI](https://fastapi.tiangolo.com/)
+- **ORM / DB:** [SQLAlchemy](https://docs.sqlalchemy.org/), [PostgreSQL](https://www.postgresql.org/docs/)
+- **Automation:** [python-telegram-bot](https://docs.python-telegram-bot.org/)
+- **Tools:** [Git](https://git-scm.com/doc), [GitHub](https://docs.github.com/), [Linux (Ubuntu)](https://ubuntu.com/server/docs)
+- **DevOps:** [Docker](https://docs.docker.com/), [AWS EC2](https://docs.aws.amazon.com/ec2/)
+- **Concepts:** [REST APIs](https://restfulapi.net/), [JWT](https://jwt.io/introduction), RBAC
 
 ---
+
 
 ## 📈 GitHub Stats
 

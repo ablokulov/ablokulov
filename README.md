@@ -39,6 +39,8 @@ I focus on writing clean, maintainable code and designing reliable backend logic
 </p>
 
 ---
+![Snake animation](https://raw.githubusercontent.com/ablokulov/ablokulov/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 📫 Contact
 

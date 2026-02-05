@@ -17,7 +17,7 @@ I focus on writing clean, maintainable code and designing reliable backend logic
 - **Automation:** [python-telegram-bot](https://docs.python-telegram-bot.org/)
 - **Tools:** [Git](https://git-scm.com/doc), [GitHub](https://docs.github.com/), [Linux (Ubuntu)](https://ubuntu.com/server/docs)
 - **DevOps:** [Docker](https://docs.docker.com/), [AWS EC2](https://docs.aws.amazon.com/ec2/)
-- **Concepts:** [REST APIs](https://restfulapi.net/), [JWT](https://jwt.io/introduction), RBAC
+- **Concepts:** [REST APIs](https://restfulapi.net/), [JWT](https://jwt.io/introduction),[REDIS](https://redis.io/docs/latest/develop/clients/redis-py/)
 
 ---
 

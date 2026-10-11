@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nodirbek%20Abloqulov&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
+
 # 👋 Hi, I'm Nodirbek Abloqulov
 
 
